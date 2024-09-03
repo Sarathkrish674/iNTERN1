@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    font-style: oblique;
+    font-size: medium;
+    background-color: beige;
+    
+}
+p{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFirqwAa5dvWCWBGlrpGI0awdVBFne-eIK8w&s");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+li{
+    list-style-type: lower-latin;
+    
+}
+img{
+    width: 400px;
+    height: 200px;
+}
+table,th,td{
+    border: 3px solid black;
+    text-align: center;
+    width: 70%;
+    height: auto;
+}
+.head2{
+    background-color: aquamarine;
+    margin: 40px 20px;
+    padding: 30px;
+    border: 2px solid grey;
+    border-radius: 50px;
+    border-top-right-radius: 0ch;
+}
